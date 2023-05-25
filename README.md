@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meus perfil 💙 💔
 
-<!--
-**paizinho01/paizinho01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Christian Mendes Rosa
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](https://WWW.alura.com.br) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Melhor aluno de propramação 
+
+-Estou densevolvendo  na linguagem javaScripst
+
+-você pode entrar em contato comigo pelo meu gmail: christian.mendes.rosa@escola.pr.gov.br
+
+![](https://media.tenor.com/E2VTv0JWbocAAAAC/one-piece.gif)
+
